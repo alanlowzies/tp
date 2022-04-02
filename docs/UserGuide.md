@@ -78,7 +78,7 @@ in the FAQ section. </span>
 
 <span class="box info"> For Linux operating systems, our application is tested on Ubuntu Linux using the default Bash shell. </span>
 
-<button class="back-to-toc">[Back to Table of Contents](#table-of-contents)</button>
+<span class="back-to-toc">[Back to Table of Contents](#table-of-contents)</span>
 
 ---
 ## Features 
