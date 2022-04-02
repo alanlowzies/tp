@@ -78,6 +78,8 @@ in the FAQ section. </span>
 
 <span class="box info"> For Linux operating systems, our application is tested on Ubuntu Linux using the default Bash shell. </span>
 
+<button class="back-to-toc">[Back to Table of Contents](#table-of-contents)</button>
+
 ---
 ## Features 
 In this section, features of the application can be classified into 4 main categories. They are: <br>
